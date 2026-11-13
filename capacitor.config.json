@@ -1,0 +1,9 @@
+{
+  "appId": "com.aliisland.app",
+  "appName": "Ali Island",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#84c960"
+  }
+}
